@@ -1,3 +1,3 @@
 # Primer Proyecto React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto Sitio Web de Videojuegos
